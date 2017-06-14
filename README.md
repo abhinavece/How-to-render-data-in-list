@@ -1,4 +1,4 @@
-# Render-data-and-important
+# How to Render data as a list
 
   ## renderPosts(){
     return this.props.posts.map(function(post){
